@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Philosopher&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Philosopher:wght@400;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    font-family: "Philosopher", sans-serif;
+    font-family: "Philosopher", sans-serif;
+
+}
+
+
+
+
+
+.container {
+    width: 1140px;
+    margin: 0px auto;
+}
+
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.hrefting {
+    margin-left: 45px;
+    display: flex;
+    gap: 25px;
+}
+
+#btn-nav {
+    border: none;
+    padding: 14px 30px;
+    border-radius: 5px;
+    background-color: #DC780B;
+    color: white;
+}
+
+/* header-qismi */
+.header-teg {
+    display: flex;
+    align-items: center;
+}
+
+[btn1] {
+    border: none;
+    padding: 20px 40px;
+    border-radius: 5px;
+    background-color: #DC780B;
+    color: white;
+}
+
+
+[btn2] {
+    border: none;
+    padding: 20px 40px;
+    border-radius: 5px;
+}
+
+.maintext {
+    text-align: center;
+    color: #DC780B;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19px;
+    letter-spacing: 0.2em;
+    text-align: center;
+
+
+}
+
+.h2qismi {
+    text-align: center;
+    font-family: Philosopher;
+    font-size: 31px;
+    font-weight: 700;
+    line-height: 35px;
+    letter-spacing: 0em;
+    text-align: center;
+
+
+}
